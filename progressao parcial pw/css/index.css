@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(188, 189, 187);
+    margin: 0px;
+}
+*{
+    margin: 0;
+} 
+#topo{
+    margin: top -5px;
+    margin: 0%;
+    width: 100%;
+    background-color: rgb(118, 233, 83);
+ }
+ #logo{
+        width: 180px;
+     	height: 180px;
+     	margin-left: 5%;
+     	margin-top: 10px;
+         margin-bottom: 10px;
+    }
+ #nome{
+     float:right;
+     margin-top: -125px;
+     margin-right: 500px;
+
+ }
+ #linhacima{
+    background-color: black;
+    height: 5px;
+
+}
+ #linhabaixo{
+     background-color: black;
+     height: 5px;
+
+ }
+ #imagens{
+    width: 180px;
+    height: 180px;
+    margin-top: 2px;
+ }
+ 
+ #livro{
+     border-color: black;
+     margin-top: 25px;
+     margin-left: 10px;
+     width: 300px;
+     height: 350px;
+     background-color: white;
+     align-items: center;
+ }
+ 
